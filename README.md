@@ -1,1 +1,3 @@
-# carteles
+# Carteles
+
+Descripción del proyecto.
